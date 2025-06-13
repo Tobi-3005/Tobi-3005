@@ -20,7 +20,7 @@ I also work as a Graduate Assistant for Florida Poly.
 - Tableau
 - Microsoft: Excel, Powerpoint, Project, Word
 - Project Management
-- System Optimization 
+- System Optimization
 
 **How to Reach Me:**
 [LinkedIn](https://www.linkedin.com/in/tobias-syring/)
